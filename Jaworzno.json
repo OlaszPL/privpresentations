@@ -1,0 +1,967 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 82,
+          "y": 278,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"PressStart2P, cursive\"><b>Smart solutions</b></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"PressStart2P, cursive\">in <b>Jaworzno -</b></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"PressStart2P, cursive\"><b>rubbish/trash</b> category</font></div>",
+          "size": 40,
+          "selected": false,
+          "skewX": 0.05,
+          "skewY": 0.18
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 194,
+      "y": 599,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 192,
+          "y": 158,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\">In Jaworzno is located</span></div><font color=\"#eeeeee\"><div style=\"text-align: center;\">a huge amount of trash bins.</div></font>",
+          "size": 54,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 127,
+      "y": 382
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 355,
+          "y": 211,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: left;\"><span style=\"color: rgb(238, 238, 238);\">As a result,</span></div><font color=\"#eeeeee\"><div style=\"text-align: left;\">there is less rubbish</div><div style=\"text-align: left;\">on the ground.</div></font>",
+          "size": 72,
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "src": "https://i.imgur.com/OrVePk4.png",
+          "type": "Image",
+          "x": 104,
+          "y": 268,
+          "scale": {
+            "x": 0.34321372854914195,
+            "y": 0.34321372854914195,
+            "width": 220,
+            "height": 161.65366614664586
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": -0.07,
+          "skewX": 0,
+          "skewY": 0.09
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": -3.58,
+      "rotateY": 0.34,
+      "rotateZ": -0.03,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 110,
+      "y": 400
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/zfIfEaT.jpeg",
+          "type": "Image",
+          "x": 71,
+          "y": 47,
+          "scale": {
+            "x": 0.2886666666666666,
+            "y": 0.2886666666666666,
+            "width": 865.9999999999999,
+            "height": 650.0773333333333
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": -0.04,
+      "rotateY": -0.02,
+      "rotateZ": -1.57,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 127,
+      "y": 255
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/bdEAu39.jpeg",
+          "type": "Image",
+          "x": 61,
+          "y": 34,
+          "scale": {
+            "x": 0.2585714285714285,
+            "y": 0.2585714285714285,
+            "width": 904.9999999999998,
+            "height": 679.5257142857141
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 241,
+      "y": 259
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/gB25J4q.jpeg",
+          "type": "Image",
+          "x": 62,
+          "y": 21,
+          "scale": {
+            "x": 0.5607476635514018,
+            "y": 0.5607476635514018,
+            "width": 419.99999999999994,
+            "height": 717.7570093457944
+          },
+          "imageType": "JPEG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/qJ0ULb7.jpeg",
+          "type": "Image",
+          "x": 505,
+          "y": 24,
+          "scale": {
+            "x": 0.5575980392156864,
+            "y": 0.5575980392156864,
+            "width": 455.0000000000001,
+            "height": 713.7254901960786
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 122,
+      "y": 117
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 346,
+          "y": 170,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Nearly every</font><br>",
+          "size": 59,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Gorditas, cursive\" color=\"#d6ff00\"><b><i>BUS STOP</i></b></font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 264,
+          "y": 326,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">is equipped with</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 110,
+          "y": 426,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"PressStart2P, cursive\" color=\"#ff0000\">a trash bin.</font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 484,
+      "y": 219
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/6ndehep.jpg",
+          "type": "Image",
+          "x": 194,
+          "y": 17,
+          "scale": {
+            "x": 0.24276080920269733,
+            "y": 0.24276080920269733,
+            "width": 612,
+            "height": 728.282427608092
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 301,
+      "y": 84
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 220,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">There is</font><br>",
+          "size": 155,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 11,
+          "y": 319,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Abril Fatface, cursive\" color=\"#02d7a0\">a new waste management system operator</font><br>",
+          "size": 51,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 464,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">&nbsp;in Jaworzno...</font><br>",
+          "size": 160,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 3.2,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 505,
+      "y": 53
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 61,
+          "y": 129,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">...that has bought new ecological dust carts - powered by LPG.</font>",
+          "size": 34,
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/zMg9bfO.jpeg",
+          "type": "Image",
+          "x": 154,
+          "y": 230,
+          "scale": {
+            "x": 0.21766666666666665,
+            "y": 0.21766666666666665,
+            "width": 652.9999999999999,
+            "height": 490.62066666666664
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 675,
+      "y": 58
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/uTDhO9G.jpg",
+          "type": "Image",
+          "x": 69,
+          "y": 38,
+          "scale": {
+            "x": 0.29900000000000015,
+            "y": 0.29900000000000015,
+            "width": 897.0000000000005,
+            "height": 673.9460000000004
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 714,
+      "y": 177
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/yBSo5FK.jpg",
+          "type": "Image",
+          "x": 19,
+          "y": 25,
+          "scale": {
+            "x": 0.13625000000000012,
+            "y": 0.13625000000000012,
+            "width": 545.0000000000005,
+            "height": 408.75000000000034
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/NIXBqDR.jpg",
+          "type": "Image",
+          "x": 499,
+          "y": 368,
+          "scale": {
+            "x": 0.11089409722222224,
+            "y": 0.11089409722222224,
+            "width": 511.00000000000006,
+            "height": 383.25000000000006
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 711,
+      "y": 319
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 65,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Some other advantages of new dust carts:</font><br>",
+          "size": 50,
+          "selected": false,
+          "skewY": 0,
+          "skewX": -0.35
+        },
+        {
+          "TextBox": {},
+          "x": 122,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\"><font face=\"Lato\">• acoustic signals for communication: loader- driver,\n<br></font>• emergency stop and brake system,\n<br>• body control is standard equipment\n<br>in 5 waste collection schemes (collection\nordinary,<br>bulky waste,\norganic, glass and waste for recycling),\n<br>• a warning buzzer at the rear of the vehicle,\n<br>• each vehicle shall have at least\n2 emergency<br>stop switches\nand slowing down.\n<br></font><br>",
+          "size": 36,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 664,
+      "y": 484
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/9HWEnOs.jpeg",
+          "type": "Image",
+          "x": 9,
+          "y": 307,
+          "scale": {
+            "x": 0.1714285714285714,
+            "y": 0.1714285714285714,
+            "width": 599.9999999999999,
+            "height": 449.99999999999994
+          },
+          "imageType": "JPEG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/342qxRo.jpeg",
+          "type": "Image",
+          "x": 528,
+          "y": 15,
+          "scale": {
+            "x": 0.10460069444444443,
+            "y": 0.10460069444444443,
+            "width": 481.99999999999994,
+            "height": 361.49999999999994
+          },
+          "imageType": "JPEG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">And of course,<br>fantastic staff.&nbsp;</font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 627,
+      "y": 641
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 13,
+          "y": 150,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: left;\"><font color=\"#eeeeee\">Companies and institutions operating in the Jaworzno area</font></div><div style=\"text-align: left;\"><span style=\"color: rgb(238, 238, 238);\">are provided with the <b>municipal waste management system</b>.</span></div><div style=\"text-align: left;\"><font color=\"#eeeeee\">This means that they don’t have to&nbsp;</font><span style=\"color: rgb(238, 238, 238);\">establish individual</span></div><div style=\"text-align: left;\"><span style=\"color: rgb(238, 238, 238);\">contracts for the collection of waste.</span></div><div style=\"text-align: left;\"><font color=\"#eeeeee\"><b>Municipal waste management system deals with</b></font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\"><b>the collection and management of municipal waste.</b></font></div>",
+          "size": 38,
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/rkZA84A.png",
+          "type": "Image",
+          "x": 359,
+          "y": 478,
+          "scale": {
+            "x": 1.0433070866141732,
+            "y": 1.0433070866141732,
+            "width": 265,
+            "height": 93.89763779527559
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "skewY": 0,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.68,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 764,
+      "y": 789
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 234,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Jaworzno deals with <b>waste segregation</b> and provides <b>separate<br>collection points for municipal waste</b> like glass, electric devices<br>and expired medicaments.<br>There are organised collections of rubble and broken electrical<br>devices from the places of living.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0.58,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1043,
+      "y": 768
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 261,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\">• <b>Worn tyres</b> are converted<br>into <b>rubber pellets</b>,<br>• <b>Foil and string waste</b> is used<br>to make <b>PE pellets</b>.</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 105,
+          "y": 74,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><font color=\"#16ff00\">Some specified wastes are received</font></div><div style=\"text-align: center;\"><font color=\"#16ff00\">by companies specialised in recycling:</font></div>",
+          "selected": false,
+          "skewY": -0.05,
+          "rotate": 0.05,
+          "skewX": -0.14
+        },
+        {
+          "src": "https://i.imgur.com/VzIW3aW.png",
+          "type": "Image",
+          "x": 700,
+          "y": 512,
+          "scale": {
+            "x": 0.11302083333333326,
+            "y": 0.11302083333333326,
+            "width": 216.99999999999986,
+            "height": 216.99999999999986
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0.04,
+      "rotateY": 3.14,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 888,
+      "y": 567
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 61,
+          "y": 132,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">In addition to </font><font color=\"#ff0000\">classic waste</font><br><font color=\"#eeeeee\">separation, other wastes are</font><br><font color=\"#eeeeee\">stored and processed in many</font><br><font color=\"#eeeeee\">places with use of </font><font face=\"Gorditas, cursive\" color=\"#16ff00\">various<br>technologies</font><font color=\"#eeeeee\">.\n</font><br><br>",
+          "size": 72,
+          "selected": false,
+          "skewY": -0.13,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 1070,
+      "y": 424
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<font color=\"#eeeeee\"><b>Mixed municipal</b> waste is transported to a <b>modern mechanical<br>and biological waste treatment plant</b>, which allows <b>material<br>and energy recovery of raw materials</b> and a <b>reduction in the amount<br>of waste deposited in the landfill</b>. At first, the waste is initially shredded<br>and then </font><font color=\"#16ff00\">sorted</font><font color=\"#eeeeee\"> (paper, glass, plastics, metal). The remaining waste goes<br>to the final shredder, which produces </font><font color=\"#16ff00\">alternative fuel - RDF</font><font color=\"#eeeeee\">.<br>Biological waste is bio-stabilised using bioreactors, a biofilter<br>and a maturing area. The result is </font><font color=\"#16ff00\">leaf mould</font><font color=\"#eeeeee\">.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": true,
+      "x": 1318,
+      "y": 423
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 211,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 37,
+          "text": "<font face=\"Lato\" color=\"#eeeeee\"><b>\nValuable substances</b> are recovered from <b>batteries</b>, <br>like<b> aluminium, zinc, cadmium, cobalt, lithium, copper,<br>nickel, lead, manganese, brass, mercury and plastics<br>and paper for the production of RDF fuel.</b><br>\n<br>Organic waste is composted and the result is a <b>soil activator</b>.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.79,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1325,
+      "y": 242
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 83,
+          "y": 62,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 26,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><font color=\"#00c3ff\">The levels of recycling, preparation for re-use and recovery by other methods</font></span></div><font face=\"Lato\" color=\"#00c3ff\"><div style=\"text-align: center;\">and the reduction in the weight of biodegradable waste sent to landfill</div><div style=\"text-align: center;\">achieved by Jaworzno in 2018.</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 269,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 29,
+          "text": "<font face=\"Lato\"><font color=\"#eeeeee\">• The level of reduction of the weight of biodegradable municipal waste</font><br><font color=\"#eeeeee\">sent to landfill - </font><font color=\"#00c3ff\">15%</font><font color=\"#eeeeee\"> (maximum level allowed - <b>40%</b>).\n</font><br></font><font color=\"#eeeeee\">• The level of recycling and preparation for re-use of the following fractions</font><br><font color=\"#eeeeee\">of municipal waste: paper, metals, plastics and glass and multi-material</font><br><font color=\"#eeeeee\">waste - </font><font color=\"#00c3ff\">33%</font><font color=\"#eeeeee\"> (acceptable minimum level - <b>30%</b>).\n</font><br><font color=\"#eeeeee\">• Level of recycling, preparation for re-use and recovery of non-hazardous</font><br><font color=\"#eeeeee\">construction and demolition waste by other methods - </font><font color=\"#00c3ff\">80 %</font><br><font color=\"#eeeeee\">(minimum permitted level - <b>50 %</b>).</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 1326,
+      "y": 29
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 125,
+          "y": 216,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\"><font color=\"#eeeeee\">In Jaworzno, a few restaurants and</font><br><font color=\"#eeeeee\">BP petrol stations have started using</font><br><div style=\"text-align: center;\"><font color=\"#02d7a0\">TooGoodToGo</font><font color=\"#eeeeee\"> app.</font></div></font>",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/AjZiJPw.png",
+          "type": "Image",
+          "x": 211,
+          "y": 17,
+          "scale": {
+            "x": 0.2904999999999999,
+            "y": 0.2904999999999999,
+            "width": 580.9999999999999,
+            "height": 164.71349999999995
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 127,
+          "y": 420,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">This app has been created to <b>prevent waste of food</b>.<br>With the app, you can easily do something good for<br>the planet, simply in three clicks - all you have to do<br>is download the app, select a property and save<br>the package from the local restaurants and shops.<br>What you save is a surprise at a great price and<br>a good thing for the planet.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 620
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/VlJGm23.jpg",
+          "type": "Image",
+          "x": 330,
+          "y": 48,
+          "scale": {
+            "x": 0.344,
+            "y": 0.344,
+            "width": 344,
+            "height": 132.784
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 345,
+          "y": 273,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"League Gothic, sans-serif\" color=\"#04c300\">Presen</font><font face=\"League Gothic, sans-serif\" color=\"#0079ff\">tation</font><font face=\"League Gothic, sans-serif\" color=\"#ff0000\"> </font><font face=\"League Gothic, sans-serif\" color=\"#d01468\">by:</font><br>",
+          "selected": false,
+          "skewY": 0,
+          "skewX": 0.27
+        },
+        {
+          "TextBox": {},
+          "x": 225,
+          "y": 413,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\">Aleksander Jóźwik</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 238,
+          "y": 542,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\" color=\"#ffffff\">Krzysztof Ślęczek</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 8,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 1802,
+      "y": 722
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 36,
+        "y": 199,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 31,
+        "text": "<font color=\"#eeeeee\"><b>Mixed municipal</b> waste is transported to a <b>modern mechanical<br>and biological waste treatment plant</b>, which allows <b>material<br>and energy recovery of raw materials</b> and a <b>reduction in the amount<br>of waste deposited in the landfill</b>. At first, the waste is initially shredded<br>and then </font><font color=\"#16ff00\">sorted</font><font color=\"#eeeeee\"> (paper, glass, plastics, metal). The remaining waste goes<br>to the final shredder, which produces </font><font color=\"#16ff00\">alternative fuel - RDF</font><font color=\"#eeeeee\">.<br>Biological waste is bio-stabilised using bioreactors, a biofilter<br>and a maturing area. The result is </font><font color=\"#16ff00\">leaf mould</font><font color=\"#eeeeee\">.</font><br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 18,
+    "selected": false,
+    "active": true,
+    "x": 1318,
+    "y": 423
+  },
+  "fileName": "Jaworzno",
+  "surface": "bg-surf-grad-black",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 956,
+  "overviewY": 409
+}
