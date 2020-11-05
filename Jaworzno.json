@@ -53,7 +53,7 @@
       "rotateZ": 0,
       "index": 1,
       "selected": false,
-      "active": true,
+      "active": false,
       "x": 127,
       "y": 382
     },
@@ -650,7 +650,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<div style=\"text-align: center;\"><font color=\"#16ff00\">Some specified wastes are received</font></div><div style=\"text-align: center;\"><font color=\"#16ff00\">by companies specialised in recycling:</font></div>",
+          "text": "<div style=\"text-align: center;\"><font color=\"#16ff00\">Some specified waste is received</font></div><div style=\"text-align: center;\"><font color=\"#16ff00\">by companies specialised in recycling:</font></div>",
           "selected": false,
           "skewY": -0.05,
           "rotate": 0.05,
@@ -923,8 +923,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 22,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 1802,
       "y": 722
     }
@@ -932,29 +932,71 @@
   "activeSlide": {
     "components": [
       {
+        "src": "https://i.imgur.com/VlJGm23.jpg",
+        "type": "Image",
+        "x": 323,
+        "y": 48,
+        "scale": {
+          "x": 0.344,
+          "y": 0.344,
+          "width": 344,
+          "height": 132.784
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
         "TextBox": {},
-        "x": 192,
-        "y": 158,
+        "x": 335,
+        "y": 274,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<div style=\"text-align: center;\"><font color=\"#eeeeee\">There is a huge amount</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\">of trash bins in Jaworzno</font></div>",
-        "size": 54,
+        "size": 72,
+        "text": "<font face=\"League Gothic, sans-serif\" color=\"#04c300\">Presen</font><font face=\"League Gothic, sans-serif\" color=\"#0079ff\">tation</font><font face=\"League Gothic, sans-serif\" color=\"#ff0000\"> </font><font face=\"League Gothic, sans-serif\" color=\"#d01468\">by:</font><br>",
+        "selected": false,
+        "skewY": 0,
+        "skewX": 0.27
+      },
+      {
+        "TextBox": {},
+        "x": 225,
+        "y": 413,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<font color=\"#ffffff\">Aleksander Jóźwik</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 238,
+        "y": 542,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<font face=\"Lato\" color=\"#ffffff\">Krzysztof Ślęczek</font>",
         "selected": false
       }
     ],
     "z": 0,
-    "impScale": 2,
+    "impScale": 8,
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 1,
-    "selected": false,
+    "index": 22,
+    "selected": true,
     "active": true,
-    "x": 127,
-    "y": 382
+    "x": 1802,
+    "y": 722
   },
   "fileName": "Jaworzno",
   "surface": "bg-surf-grad-black",
