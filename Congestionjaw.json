@@ -25,7 +25,7 @@
       "rotateZ": 0,
       "index": 0,
       "selected": false,
-      "active": true,
+      "active": false,
       "x": 527,
       "y": 446
     },
@@ -964,8 +964,8 @@
       "components": [
         {
           "TextBox": {},
-          "x": 527,
-          "y": 373,
+          "x": 258,
+          "y": 364,
           "scale": {
             "x": 1,
             "y": 1
@@ -977,8 +977,8 @@
         },
         {
           "TextBox": {},
-          "x": 579,
-          "y": 493,
+          "x": 486,
+          "y": 481,
           "scale": {
             "x": 1,
             "y": 1
@@ -990,8 +990,8 @@
         },
         {
           "TextBox": {},
-          "x": 583,
-          "y": 552,
+          "x": 490,
+          "y": 540,
           "scale": {
             "x": 1,
             "y": 1
@@ -1008,8 +1008,8 @@
       "rotateY": -1.36,
       "rotateZ": -0.04,
       "index": 29,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 168,
       "y": 566
     }
@@ -1018,30 +1018,54 @@
     "components": [
       {
         "TextBox": {},
-        "x": 131,
-        "y": 279,
+        "x": 258,
+        "y": 364,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<div style=\"text-align: center;\"><span style=\"font-family: PressStart2P, cursive;\">Is Jaworzno smart</span></div><font face=\"PressStart2P, cursive\"><div style=\"text-align: center;\">in traffic</div><div style=\"text-align: center;\">congestion category?</div></font>",
-        "size": 38,
-        "selected": false,
-        "rotate": -0.14,
-        "skewX": 0
+        "size": 75,
+        "text": "<font color=\"#333333\" face=\"League Gothic, sans-serif\"><b>Presentation by:</b></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 486,
+        "y": 481,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#333333\">Aleksander Jóźwik</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 490,
+        "y": 540,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#333333\" face=\"Lato\">Krzysztof Ślęczek</font>",
+        "selected": false
       }
     ],
     "z": 0,
-    "impScale": 5,
-    "rotateX": 0,
-    "rotateY": 0,
-    "rotateZ": 0,
-    "index": 0,
-    "selected": false,
+    "impScale": 3,
+    "rotateX": 0.8,
+    "rotateY": -1.36,
+    "rotateZ": -0.04,
+    "index": 29,
+    "selected": true,
     "active": true,
-    "x": 527,
-    "y": 446
+    "x": 168,
+    "y": 566
   },
   "fileName": "Congestionjaw",
   "deckVersion": "1.0",
