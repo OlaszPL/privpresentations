@@ -1,0 +1,1053 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 131,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: PressStart2P, cursive;\">Is Jaworzno smart</span></div><font face=\"PressStart2P, cursive\"><div style=\"text-align: center;\">in traffic</div><div style=\"text-align: center;\">congestion category?</div></font>",
+          "size": 38,
+          "selected": false,
+          "rotate": -0.14,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": true,
+      "x": 527,
+      "y": 446
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/qvql9LB.png",
+          "type": "Image",
+          "x": 62,
+          "y": 294,
+          "scale": {
+            "x": 0.47291666666666665,
+            "y": 0.47291666666666665,
+            "width": 908,
+            "height": 95.52916666666667
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 982,
+      "y": 382
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 94,
+          "y": 182,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "In 2011, in Jaworzno, steps were taken<br>to implement <i><b>Vision Zero</b></i>. The idea of<br>Vision Zero was born in Sweden in the<br>mid-1990s. Its main purpose is to<br>introduce improvements <b>to reduce the<br>number of road accident victims to zero</b>.",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 985,
+      "y": 465
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 111,
+          "y": 151.18384669376294,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 83,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><font color=\"#ff0000\">Main</font></span></div><div style=\"text-align: center;\"><font face=\"Fredoka One, cursive\" color=\"#16ff00\">strategies</font></div><div style=\"text-align: center;\"><font face=\"PressStart2P, cursive\">to achieve</font></div><div style=\"font-family: Lato; text-align: center;\"><b><font color=\"#00d1c5\">this are...</font></b></div>",
+          "selected": false,
+          "skewX": 0,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1240,
+      "y": 443
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 150,
+          "y": 220,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 205,
+          "text": "<font face=\"League Gothic, sans-serif\">Narrow roads</font><br>",
+          "selected": false,
+          "skewX": 0,
+          "rotate": -0.22
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.31,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1463,
+      "y": 441
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/TthMsM8.jpg",
+          "type": "Image",
+          "x": 91,
+          "y": 73,
+          "scale": {
+            "x": 0.2388571428571429,
+            "y": 0.2388571428571429,
+            "width": 836.0000000000002,
+            "height": 627.9554285714287
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1464,
+      "y": 299
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 39,
+          "y": 81,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<b>Narrow roads</b> make it impossible to speed up.<br>As a result, drivers are <b>slowing down</b>.<br>On wide roads drivers are less cautious.<br>The same applies to uneven roads such<br>as paved roads. Vibration and noise<br>- that's for the driver: <b>you are not on</b><b><br>the motorway! You are in town - slow down</b><b>!</b>\n<br>",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/9TBorA9.png",
+          "type": "Image",
+          "x": 419,
+          "y": 517,
+          "scale": {
+            "x": 0.10052083333333328,
+            "y": 0.10052083333333328,
+            "width": 192.9999999999999,
+            "height": 192.9999999999999
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -0.86,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1467,
+      "y": 186
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 222,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 70,
+          "text": "<div style=\"text-align: center;\"><b style=\"font-family: Lato;\"><font color=\"#ff0000\">Retardants</font></b></div><font face=\"Lato\"><div style=\"text-align: center;\"><b>and</b></div><b><div style=\"text-align: center;\"><b><font color=\"#00ff5f\">raised pedestrian crossings</font></b></div></b></font>",
+          "selected": false,
+          "skewX": 0,
+          "rotate": -0.24
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.31,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1466,
+      "y": 578
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/7U85GGx.jpeg",
+          "type": "Image",
+          "x": 95,
+          "y": 66,
+          "scale": {
+            "x": 0.283,
+            "y": 0.283,
+            "width": 848.9999999999999,
+            "height": 637.882
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1474,
+      "y": 713
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/v8rAzs6.jpg",
+          "type": "Image",
+          "x": 22,
+          "y": 11,
+          "scale": {
+            "x": 0.19866666666666666,
+            "y": 0.19866666666666666,
+            "width": 596,
+            "height": 447.79466666666667
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ggPZdpZ.jpeg",
+          "type": "Image",
+          "x": 412,
+          "y": 270,
+          "scale": {
+            "x": 0.46093750000000006,
+            "y": 0.46093750000000006,
+            "width": 590.0000000000001,
+            "height": 474.30468750000006
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1589,
+      "y": 709
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 120,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 78,
+          "text": "• <b>Retardants</b> are located<br>in front of junctions,\n<br>• <b>Pedestrian crossings</b><br>are <b>raised</b> that cause<br>drivers slowing down.\n<br><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": -0.88,
+      "rotateZ": -1.57,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1724,
+      "y": 711
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 294,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#333333\" face=\"Ubuntu, sans-serif\"><b>Roundabouts</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1728,
+      "y": 558
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 188,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\"><font color=\"#004bea\">Roundabouts</font> in Jaworzno also have <b>affect<br>on traffic</b>. <b>In the centre</b> of rounabouts are<br>situated <b>high hills of soil with high shrubs<br>or other plants</b>. This is done to reduce<br>visibility for car drivers. As a result, <b>drivers</b><br>are <b>more cautious</b> and <b>slow down</b>.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1729,
+      "y": 426
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/vNLMeGf.jpeg",
+          "type": "Image",
+          "x": 80,
+          "y": 59,
+          "scale": {
+            "x": 0.29000000000000015,
+            "y": 0.29000000000000015,
+            "width": 870.0000000000005,
+            "height": 653.6600000000003
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 1.57,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1730,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ECVaSgC.jpeg",
+          "type": "Image",
+          "x": 68,
+          "y": 61,
+          "scale": {
+            "x": 0.299,
+            "y": 0.299,
+            "width": 897,
+            "height": 673.946
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 1.57,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 1730,
+      "y": 137
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 254,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 44,
+          "text": "There are <b>only two Dutch roundabouts in Poland</b><br>and <font color=\"#ff0000\">both of them</font> are located <font color=\"#ff0000\">in Jaworzno</font>.<br>Future roundabouts in our city will be only<br>constructed like Dutch ones.<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1861,
+      "y": 306
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/17myIxq.jpg",
+          "type": "Image",
+          "x": 88,
+          "y": 65,
+          "scale": {
+            "x": 0.2826666666666667,
+            "y": 0.2826666666666667,
+            "width": 848,
+            "height": 637.1306666666667
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 2040,
+      "y": 263
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/1kZuY8A.jpg",
+          "type": "Image",
+          "x": 79,
+          "y": 46,
+          "scale": {
+            "x": 0.3544,
+            "y": 0.3544,
+            "width": 886,
+            "height": 665.5631999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 2295,
+      "y": 263
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/sgPttzg.jpg",
+          "type": "Image",
+          "x": 21,
+          "y": 18,
+          "scale": {
+            "x": 0.4459247648902821,
+            "y": 0.4459247648902821,
+            "width": 569,
+            "height": 426.3040752351097
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/NO1rvup.jpeg",
+          "type": "Image",
+          "x": 385,
+          "y": 283,
+          "scale": {
+            "x": 0.4811912225705329,
+            "y": 0.4811912225705329,
+            "width": 614,
+            "height": 460.0188087774294
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": -0.8,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 2296,
+      "y": 422
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 149,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 83,
+          "text": "<div style=\"text-align: center;\">There is</div><div style=\"text-align: center;\"><font face=\"PressStart2P, cursive\" color=\"#ff0000\">a brand new</font></div><div style=\"text-align: center;\">car park</div><div style=\"text-align: center;\"><font face=\"Fredoka One, cursive\" color=\"#009b23\">in our city</font></div>",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 3.14,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 610,
+      "y": 684
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/Q6I4GrU.jpg",
+          "type": "Image",
+          "x": 36,
+          "y": 25,
+          "scale": {
+            "x": 0.17850000000000002,
+            "y": 0.17850000000000002,
+            "width": 714.0000000000001,
+            "height": 536.3925
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://zpomyslami.pl/wp-content/uploads/2015/02/strzalka.png",
+          "type": "Image",
+          "x": 413,
+          "y": 343,
+          "scale": {
+            "x": 0.6906249999999999,
+            "y": 0.6906249999999999,
+            "width": 441.99999999999994,
+            "height": 220.99999999999997
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": -2.65
+        },
+        {
+          "TextBox": {},
+          "x": 122,
+          "y": 613,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><b>This car park</b> is equipped with an <font color=\"#ff0000\">active</font></div><div style=\"text-align: center;\"><font color=\"#ff0000\">parking space counting system</font>.</div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 940,
+      "y": 681
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/aB4zWny.jpg",
+          "type": "Image",
+          "x": 32,
+          "y": 19,
+          "scale": {
+            "x": 0.159,
+            "y": 0.159,
+            "width": 636,
+            "height": 477.795
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/KmzgbzH.jpeg",
+          "type": "Image",
+          "x": 391,
+          "y": 289,
+          "scale": {
+            "x": 0.1545,
+            "y": 0.1545,
+            "width": 618,
+            "height": 464.2725
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 942,
+      "y": 843
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/IDv4XGq.jpg",
+          "type": "Image",
+          "x": 66,
+          "y": 63,
+          "scale": {
+            "x": 0.25028571428571433,
+            "y": 0.25028571428571433,
+            "width": 876.0000000000001,
+            "height": 492.8125714285715
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 590,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">There are parking spaces with <font color=\"#009b23\">chargers</font></span></div><font face=\"Lato\"><div style=\"text-align: center;\">designated only for <font color=\"#00a1ea\">electric cars</font>.</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.31,
+      "rotateZ": -1.57,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 1108,
+      "y": 843
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 66,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<div style=\"text-align: center;\"><font face=\"Fredoka One, cursive\" color=\"#004f72\">And the other one</font></div><div style=\"font-family: Lato; text-align: center;\"><b>is under</b></div><div style=\"text-align: center;\"><font face=\"Hammersmith One, sans-serif\" color=\"#f80000\">Galena shopping centre</font></div>",
+          "selected": false,
+          "rotate": -0.23
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 1309,
+      "y": 981
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/X13vQsI.jpg",
+          "type": "Image",
+          "x": 28,
+          "y": 12,
+          "scale": {
+            "x": 0.1280224525043178,
+            "y": 0.1280224525043178,
+            "width": 593,
+            "height": 445.5181347150259
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/JtCAK7C.jpeg",
+          "type": "Image",
+          "x": 359,
+          "y": 256,
+          "scale": {
+            "x": 0.21266666666666664,
+            "y": 0.21266666666666664,
+            "width": 637.9999999999999,
+            "height": 479.3506666666666
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 1620,
+      "y": 979
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 66,
+          "y": 207,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 85,
+          "text": "<div style=\"text-align: center;\"><font color=\"#ff0000\">A4</font> motorway</div><div style=\"text-align: center;\">passes through</div><div style=\"text-align: center;\"><font face=\"PressStart2P, cursive\">Jaworzno...</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 297,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 147,
+          "y": 606,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">... and there are <b>two applications</b> that you can use</div><div style=\"text-align: center;\">to&nbsp;<b>pay&nbsp;</b><b>for a toll directly</b> instead of at a toll station.</div>",
+          "selected": false
+        },
+        {
+          "src": "https://www.a4go.pl/static/images/logo.png",
+          "type": "Image",
+          "x": 83,
+          "y": 91,
+          "scale": {
+            "x": 0.53,
+            "y": 0.53,
+            "width": 371,
+            "height": 212
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://autopay.pl/storage/images/jak_wszystkie_bramki.jpg",
+          "type": "Image",
+          "x": 436,
+          "y": 205,
+          "scale": {
+            "x": 0.4204180064308682,
+            "y": 0.4204180064308682,
+            "width": 523,
+            "height": 375.4332797427653
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.31,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 612,
+      "y": 174
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 292,
+          "y": 320,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "<font face=\"Lato\">What needs improving?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 2691,
+      "y": 252
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 503,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>More apps</b> (e.g. for <b>checking free parking spaces</b>)</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">would certainly be useful.&nbsp;</span><span style=\"font-family: Lato;\">We hope that this will</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">change in the future.</span></div>",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/iI2dkq6.png",
+          "type": "Image",
+          "x": 120,
+          "y": -46,
+          "scale": {
+            "x": 0.3979166666666667,
+            "y": 0.3979166666666667,
+            "width": 764,
+            "height": 587.7229166666667
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.1,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 2685,
+      "y": 433
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 527,
+          "y": 373,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 75,
+          "text": "<font color=\"#333333\" face=\"League Gothic, sans-serif\"><b>Presentation by:</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 579,
+          "y": 493,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#333333\">Aleksander Jóźwik</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 583,
+          "y": 552,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#333333\" face=\"Lato\">Krzysztof Ślęczek</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.8,
+      "rotateY": -1.36,
+      "rotateZ": -0.04,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 168,
+      "y": 566
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 131,
+        "y": 279,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: PressStart2P, cursive;\">Is Jaworzno smart</span></div><font face=\"PressStart2P, cursive\"><div style=\"text-align: center;\">in traffic</div><div style=\"text-align: center;\">congestion category?</div></font>",
+        "size": 38,
+        "selected": false,
+        "rotate": -0.14,
+        "skewX": 0
+      }
+    ],
+    "z": 0,
+    "impScale": 5,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": false,
+    "active": true,
+    "x": 527,
+    "y": 446
+  },
+  "fileName": "Congestionjaw",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1429.5,
+  "overviewY": 559
+}
