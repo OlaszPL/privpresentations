@@ -376,7 +376,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Ubuntu\"><font color=\"#004bea\">Roundabouts</font> in Jaworzno also have <b>affect<br>on traffic</b>. <b>In the centre</b> of rounabouts are<br>situated <b>high hills of soil with high shrubs<br>or other plants</b>. This is done to reduce<br>visibility for car drivers. As a result, <b>drivers</b><br>are <b>more cautious</b> and <b>slow down</b>.</font><br>",
+          "text": "<font face=\"Ubuntu\"><font color=\"#004bea\">Roundabouts</font> in Jaworzno also have <b>affect<br>on traffic</b>. <b>In the centre</b> of rounabouts are<br>situated <b>high hills of soil with high bushes<br>or other plants</b>. This is done to reduce<br>visibility for car drivers. As a result, <b>drivers</b><br>are <b>more cautious</b> and <b>slow down</b>.</font><br>",
           "selected": false
         }
       ],
@@ -904,7 +904,7 @@
           },
           "type": "TextBox",
           "size": 43,
-          "text": "<font face=\"Lato\">What needs improving?</font><br>",
+          "text": "<font face=\"Lato\">What needs improvement?</font><br>",
           "selected": false
         }
       ],
