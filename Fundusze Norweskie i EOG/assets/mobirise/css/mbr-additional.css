@@ -1324,6 +1324,10 @@ a {
     width: 80%;
   }
 }
+.cid-ssdssVDrjE .mbr-text,
+.cid-ssdssVDrjE .mbr-section-btn {
+  text-align: center;
+}
 .cid-ssdyBB2XsH {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1381,8 +1385,8 @@ a {
   }
 }
 .cid-ssdCj3fZh9 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-color: #fafafa;
 }
 .cid-ssdCj3fZh9 .card:not(:nth-last-child(1)) {
@@ -1434,5 +1438,90 @@ a {
   .cid-ssdCj3fZh9 .card-box {
     padding-left: 2rem;
     padding-right: 4rem;
+  }
+}
+.cid-ssHvxOzKV9 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-ssHvxOzKV9 ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-ssHvxOzKV9 li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-ssHvxOzKV9 ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
+.cid-ssHwLwDcYJ {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
+@media (max-width: 767px) {
+  .cid-ssHwLwDcYJ .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-ssHwLwDcYJ .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-ssHwLwDcYJ .links {
+    text-align: center !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ssHwLwDcYJ .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-ssHwLwDcYJ .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: 0.05;
+}
+.cid-ssHwLwDcYJ .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-ssHwLwDcYJ .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-ssHwLwDcYJ .footer-lower .social-list .soc-item {
+  margin: 0 0.5rem;
+}
+.cid-ssHwLwDcYJ .footer-lower .social-list a {
+  margin: 0;
+  opacity: 0.5;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+}
+.cid-ssHwLwDcYJ .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-ssHwLwDcYJ .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
